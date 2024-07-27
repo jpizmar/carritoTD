@@ -1,0 +1,12 @@
+.card {
+    text-align: center;
+}
+#btn{
+    background-color: goldenrod;
+    border: transparent;
+
+}
+#product-galery{
+    background-color: rgb(243, 236, 224);
+    padding: 18px;
+}
